@@ -1,15 +1,1 @@
-123
-
-new line
-
-another line
-
-yet another line
-
-another line
-
-another line
-
-another line 3
-
-abother line 4
+line 1
